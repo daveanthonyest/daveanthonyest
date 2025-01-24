@@ -5,7 +5,7 @@ After the Navy, I transitioned into building automation systems, working as a Sy
 
 ## Skills & Technologies 🛠️
 Programming Languages: C, Python, Java, Verilog, MIPS Assembly
-Development Tools: Vivado (Verilog), MARS (MIPS), VS Code, Atmel Studio, 
+Development Tools: Xilinx Vivado, MARS, VS Code, Atmel Studio 
 Microcontrollers: ATmega328P, AVR
 Building Automation: Distech Controllers, EC-gfxProgram
 Protocols: BACnet, LONWORKS
