@@ -19,6 +19,8 @@ Etch-a-Sketch FPGA : a VGA-compatible drawing tool built on a Basys 3 board usin
 
 ## Education
 Nuclear Power School
+
 Grossmont College
+
 San Diego State University
 
