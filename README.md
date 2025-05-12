@@ -15,6 +15,8 @@ Mips Drone Game : a game made in MIPS Assembly where you control a pixel to clea
 
 PixelPlace : a collaborative pixel-art web application where users draw together in real-time. Built with FastAPI, React, and PostgreSQL.
 
+Etch-a-Sketch FPGA : a VGA-compatible drawing tool built on a Basys 3 board using Verilog. Users control a pixel cursor with buttons and switches to draw on screen.
+
 ## Education
 Nuclear Power School
 Grossmont College
