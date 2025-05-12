@@ -11,7 +11,9 @@ Building Automation: Distech Controllers, EC-gfxProgram
 Protocols: BACnet, LONWORKS
 
 ## Projects 💻
-Mips Drone Game : a game made in MIPS Assembly where you control a pixel to clean dirty windows on a building. 
+Mips Drone Game : a game made in MIPS Assembly where you control a pixel to clean dirty windows on a building.
+
+PixelPlace : a collaborative pixel-art web application where users draw together in real-time. Built with FastAPI, React, and PostgreSQL.
 
 ## Education
 Nuclear Power School
